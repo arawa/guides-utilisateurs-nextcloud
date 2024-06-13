@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce dépôt contient des documentations destinées aux utilisateurs finaux de Nextcloud, rédigées en français. Ces guides fonctionnels permettent aux utilisateur finaux de Nextcloud (≠ administrateur) de prendre en main la solution de collaboration Open Source dévéloppée par Nextcloud GmbH.
+Ce dépôt contient des documentations destinées aux utilisateurs finaux de Nextcloud, rédigées en français, au format ODT (rédigées avec LibreOffice). Ces guides fonctionnels permettent aux utilisateur finaux de Nextcloud (≠ administrateur) de prendre en main la solution de collaboration Open Source dévéloppée par Nextcloud GmbH.
 
 ## Contenu
 
