@@ -21,16 +21,18 @@ Les documents couvent principalement les thèmatiques suivantes :
 
 ![cc-by-nc-sa](https://github.com/arawa/guides-utilisateurs-nextcloud/assets/33763786/eaf832ed-8651-4bfc-b85d-bbe633756a8c)
 
-Les documents de ce dépôt sont distribués sous la licence Creative Commons Attribution - NonCommercial - ShareAlike 4.0 International (CC BY-NC-SA 4.0). Vous êtes libres de :
+Les documents de ce dépôt sont distribués sous la licence Creative Commons Attribution - NonCommercial - ShareAlike 4.0 International (CC BY-NC-SA 4.0). 
 
-- Partager — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
-- Adapter — remixer, transformer et créer à partir du matériel
+### Vous êtes libres de :
 
-Sous les conditions suivantes :
+- **Partager** — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
+- **Adapter** — remixer, transformer et créer à partir du matériel
 
-- Attribution — Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations de manière raisonnable, mais sans suggérer que l’auteur vous soutient ou soutient votre utilisation de l’œuvre.
-- Pas d’Utilisation Commerciale — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant.
-- Partage dans les Mêmes Conditions — Si vous remixer, transformez, ou créez à partir du matériel, vous devez diffuser l’œuvre modifiée dans les mêmes conditions.
+### Sous les conditions suivantes :
+
+- **Attribution** — Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations de manière raisonnable, mais sans suggérer que l’auteur vous soutient ou soutient votre utilisation de l’œuvre.
+- **Pas d’Utilisation Commerciale** — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant.
+- **Partage dans les Mêmes Conditions** — Si vous remixer, transformez, ou créez à partir du matériel, vous devez diffuser l’œuvre modifiée dans les mêmes conditions.
 
 Pour plus de détails, veuillez consulter le texte intégral de la licence : [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
