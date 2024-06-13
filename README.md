@@ -17,6 +17,10 @@ Les documents couvent principalement les thèmatiques suivantes :
 - Les activités et notifications
 - La recherche unifiée
 
+### Aperçu visuel
+
+![Capture d’écran du 2024-06-13 15-14-55](https://github.com/arawa/guides-utilisateurs-nextcloud/assets/33763786/dd372ca7-4726-4621-b88d-d3ffcec92959)
+
 ## Licence
 
 ![cc-by-nc-sa](https://github.com/arawa/guides-utilisateurs-nextcloud/assets/33763786/eaf832ed-8651-4bfc-b85d-bbe633756a8c)
