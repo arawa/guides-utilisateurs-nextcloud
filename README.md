@@ -46,7 +46,7 @@ Pour plus de détails, veuillez consulter le texte intégral de la licence : [CC
 
 Les contributions à ce dépôt sont les bienvenues. 
 
-Veuillez soumettre vos propositions via des Pull Requests. **Chaque commit doit convenir le document document dans sa totalité**, **modifié en marque de révision**, au format **ODT**, modifié avec **LibreOffice**.
+Veuillez soumettre vos propositions via des Pull Requests. **Chaque commit doit contenir le document document dans sa totalité**, **modifié en marque de révision**, au format **ODT**, modifié avec **LibreOffice**.
 
 Assurez-vous que toutes les contributions respectent les conditions de la licence CC BY-NC-SA 4.0.
 
