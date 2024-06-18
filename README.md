@@ -1,10 +1,10 @@
-# Guide utilisateur finaux de Nextcloud par Arawa
+# Guide utilisateur de Nextcloud par Arawa
 
 ✏️ Actuellement disponibles : Guides utilisateurs de Nextcloud 27.1 (Hub 6) et 28 (Hub 7)
 
 ## Description
 
-Ce dépôt contient des documentations destinées aux utilisateurs finaux de Nextcloud, rédigées en français, au format ODT (rédigées avec LibreOffice). Ces guides fonctionnels permettent aux utilisateur finaux de Nextcloud (≠ administrateur) de prendre en main la solution de collaboration Open Source dévéloppée par Nextcloud GmbH.
+Ce dépôt contient des documentations destinées aux utilisateurs de Nextcloud, rédigées en français, au format ODT (rédigées avec LibreOffice). Ces guides fonctionnels permettent aux utilisateur de Nextcloud (≠ administrateur) de prendre en main la solution de collaboration Open Source dévéloppée par Nextcloud GmbH.
 
 ## Contenu
 
