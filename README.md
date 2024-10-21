@@ -12,7 +12,7 @@ Les documents couvent principalement les thèmatiques suivantes :
 
 - La gestion des fichiers
 - Les partages
-- Les transfers de propriété des dossiers
+- Les transferts de propriété des dossiers
 - L'édition des fichiers
 - Les conflits de synchronisation
 - Les mots de passe d'application
