@@ -1,6 +1,11 @@
 # Guide utilisateur de Nextcloud par Arawa
 
-✏️ Actuellement disponibles : Guides utilisateurs de Nextcloud 27.1 (Hub 6), 28 (Hub 7), 29 (Hub 8), 30 (Hub 9)
+✏️ Actuellement disponibles, sont les guides utilisateurs de Nextcloud : 
+- 27.1 (Hub 6)
+- 28 (Hub 7)
+- 29 (Hub 8)
+- 30 (Hub 9)
+- 31 (Hub 10)
 
 ## Description
 
